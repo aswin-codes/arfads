@@ -16,12 +16,12 @@ const Home = () => {
             Attract Your Customers Attention With Powerful
           </p>
           <span className="gradient-text text-2xl md:text-4xl ">
-            ARFADS AGENCY !
+            AI DRIVEN ARFADS AGENCY !
           </span>
         </div>
         <div className="mt-10">
           <p className="text-gray-400">
-          Welcome to ARF ADS, a leading digital marketing agency in India. We help businesses thrive online with effective strategies tailored to increase brand visibility, generate leads, and boost sales. Partner with us to elevate your digital presence!
+          Welcome to ARF ADS, a leading digital marketing agency fueled by AI. We help businesses thrive online with effective strategies tailored to increase brand visibility, generate leads, and boost sales. Partner with us to elevate your digital presence!
           </p>
         </div>
       </div>

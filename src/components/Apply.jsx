@@ -1,6 +1,6 @@
 import React from "react";
-import I1 from "../assets/motionarteffect-img11.png";
-import I2 from "../assets/motionarteffect-img10.png";
+import I1 from "../assets/arfads.gif";
+import I2 from "../assets/arfads.jpg";
 const Apply = () => {
   return (
     <div className="px-5 pt-24">

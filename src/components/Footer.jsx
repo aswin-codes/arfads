@@ -20,7 +20,7 @@ const Footer = () => {
       </div>
       <div>
         <p className="text-center text-slate-100 opacity-90 text-xs">
-          © 2024 Copywrite. All rights reserved by ARFADS
+          © 2024 Copyright. All rights reserved by ARFADS
         </p>
       </div>
     </div>
